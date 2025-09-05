@@ -19,6 +19,7 @@ Data Tools: SQL (basic), Jupyter Notebook, GitHub, Anaconda
 Engineering Tools: SolidWorks, AutoCAD
 Other Tools: Microsoft Office Suite (Excel, Word, PowerPoint)
 Soft Skills: Leadership, Problem-Solving, Strategic Planning, Training Development
+
 💼 Professional Experience
 R&D Director
 EGEMAC, Egypt | 2018 – Present
@@ -36,7 +37,9 @@ Managed MRP systems and planned workloads for CNC and mechanical workshops.
 Oversaw localization of imported components, reducing costs and saving foreign currency.
 Designed and fabricated customized handling tools to enhance labor efficiency.
 Collaborated with Siemens, ABB, AEG, and Schneider Electric.
-🎓 Education
+
+🎓 Education:
+
 M.Sc. in Mechanical Engineering – Design & Production
 Ain Shams University, Cairo, Egypt | 1999
 
@@ -45,13 +48,16 @@ Ain Shams University, Cairo, Egypt | 1990
 Graduation Grade: Good | Project Grade: Excellent
 Project: "Design of Material Handling Equipment – Rolling Conveyor Type"
 
-📜 Certifications & Training
+📜 Certifications & Training:
+
 Self-training in Data Analysis: Excel, Power BI, Python, Statistics
 Production Planning Systems Training (MEAG Center)
 General English & Conversation (Axon Center)
 Technical Training: Galaxy System (MV Switchboard Type PIX 12/24 kV)
 Industrial Training: RUHTAL Co., Germany
-🌐 Languages
+
+🌐 Languages:
+
 Arabic: Native
 English: Very Good
 French: Basic
@@ -60,7 +66,8 @@ Title: A Queuing Oriented Decision Process for Capacity Planning in a Job Shop E
 
 Developed a mathematical model using queuing theory for capacity planning in job shops, reducing order waiting times and overall production costs. The model assists in early-stage decision-making across manufacturing and service sectors.
 
-🧑‍💼 Personal Attributes
+🧑‍💼 Personal Attributes:
+
 Strong Communication and Leadership
 Self-motivated, Committed to Continuous Learning
 Excellent Organizational and Time Management Skills
