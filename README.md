@@ -5,7 +5,8 @@ Email: mohamed.sayed980@gmail.com
 LinkedIn: mohamed-sayed-38619397
 GitHub: mohamedsayed980
 
-🎯 Professional Summary
+🎯 Professional Summary:
+
 I am a Data Analyst with 30+ years of cross-functional experience in mechanical engineering, production planning, and team management. Recently, I transitioned to data analytics, building strong expertise in Python, Power BI, Excel, and statistical analysis.
 
 My passion lies in applying analytical models and visualization tools to derive actionable business insights, optimize production workflows, and support strategic decision-making. I excel at bridging technical expertise with business needs.
